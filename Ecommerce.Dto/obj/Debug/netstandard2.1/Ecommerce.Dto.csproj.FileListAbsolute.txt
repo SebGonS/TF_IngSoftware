@@ -1,0 +1,10 @@
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Dto\bin\Debug\netstandard2.1\Ecommerce.Dto.deps.json
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Dto\bin\Debug\netstandard2.1\Ecommerce.Dto.dll
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Dto\bin\Debug\netstandard2.1\Ecommerce.Dto.pdb
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Dto\obj\Debug\netstandard2.1\Ecommerce.Dto.csproj.AssemblyReference.cache
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Dto\obj\Debug\netstandard2.1\Ecommerce.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Dto\obj\Debug\netstandard2.1\Ecommerce.Dto.AssemblyInfoInputs.cache
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Dto\obj\Debug\netstandard2.1\Ecommerce.Dto.AssemblyInfo.cs
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Dto\obj\Debug\netstandard2.1\Ecommerce.Dto.csproj.CoreCompileInputs.cache
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Dto\obj\Debug\netstandard2.1\Ecommerce.Dto.dll
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Dto\obj\Debug\netstandard2.1\Ecommerce.Dto.pdb
