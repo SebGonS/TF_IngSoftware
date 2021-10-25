@@ -1,0 +1,162 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout=null;
+}
+
+<!doctype html>
+<html lang="en-us">
+
+<head>
+
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <title>Nutripal</title>
+    <meta name="description" content="">
+
+    <!-- The compiled CSS file -->
+    <link rel="stylesheet" href="~/css/production.css">
+
+    <!-- Web fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet">
+
+    <!-- favicon.ico. Place these in the root directory. -->
+    <link rel="shortcut icon" href="favicon.ico">
+
+</head>
+
+<body class="has-animations">
+
+
+    <!-- Header -->
+    <header class="pt2 pb1 align--center">
+        <div class="container">
+            <p>Bienvenido a</p>
+            <p>Nutripal</p>
+        </div>
+    </header>
+
+    <!-- Body -->
+    <main>
+
+        <div class="container">
+
+            <!-- Info -->
+            <section class="grid-row grid-row--center">
+                <!-- Nutricionistas -->
+                <div class="grid-column span-half pt3 pb3 mobile-m order-1 reveal-on-scroll is-revealing">
+                    <div class="relative">
+                        <img class="info-image relative z2" src="~/img/nutricionista.jpg" alt="Nutricionista">
+                        <div class="pattern pattern--left-down absolute z1"></div>
+                    </div>
+                </div>
+                <div class="grid-column span-half pt3 pb3 mobile-m order-2">
+                    <h3>Nutricionistas a tu lado</h3>
+                    <p>Tendrpás nutricionistas en todo momento para que te ayuden con cualquier duda y que te apoyarán a lo largo del todo proceso.</p>
+                </div>
+                <!-- Dietas -->
+                <div class="grid-column span-half pt3 pb3 mobile-m order-4">
+                    <h3>Dietas Personalizadas</h3>
+                    <p>Tendrás acceso a dietas personalizadas que se te darán dependiendo del peso, altura y objetivo que necesites.</p>
+                </div>
+                <div class="grid-column span-half pt3 pb3 mobile-m order-3 reveal-on-scroll is-revealing">
+                    <div class="relative">
+                        <img class="info-image relative z2" src="~/img/piramide.jpg" alt="Piramide">
+                        <div class="pattern pattern--right-middle absolute z1"></div>
+                    </div>
+                </div>
+                <!-- Ejercicios -->
+                <div class="grid-column span-half pt3 pb3 mobile-m order-5 reveal-on-scroll is-revealing">
+                    <div class="relative">
+                        <img class="info-image relative z2" src="~/img/ejercicios.jpg" alt="Ejercicios">
+                        <div class="pattern pattern--left-up absolute z1"></div>
+                    </div>
+                </div>
+                <div class="grid-column span-half pt3 pb3 mobile-m order-6">
+                    <h3>Ejercicios Personalizadas</h3>
+                    <p>Tendrás las mejores rutinas de ejercicio para los objetivos que buscas.</p>
+                </div>
+                <!-- Descuentos -->
+                <div class="grid-column span-half pt3 pb3 mobile-m order-8">
+                    <h3>Descuentos</h3>
+                    <p>Por usar la aplicación tendrás descuentos con nuestras marcas aliadas que te ayudarán a seguir tus objetivos.</p>
+                </div>
+                <div class="grid-column span-half pt3 pb3 mobile-m order-7 reveal-on-scroll is-revealing">
+                    <div class="relative">
+                        <img class="info-image relative z2" src="~/img/descuento.jpg" alt="Descuento">
+                        <div class="pattern pattern--right-down absolute z1"></div>
+                    </div>
+                </div>
+                <!-- Soporte -->
+                <div class="grid-column span-half pt3 pb3 mobile-m order-9 reveal-on-scroll is-revealing">
+                    <div class="relative">
+                        <img class="info-image relative z2" src="~/img/atencion.jpg" alt="Atención">
+                        <div class="pattern pattern--left-middle absolute z1"></div>
+                    </div>
+                </div>
+                <div class="grid-column span-half pt3 pb3 mobile-m order-10">
+                    <h3>Ayuda al cliente</h3>
+                    <p>Tendrás a una persona detrás de ti todo el tiempo para ayudarte con algún problema que puedas tener dentro de la aplicación.</p>
+                </div>
+            </section>
+
+        </div>
+
+        <!-- Pricing -->
+        <section class="align--center pt2 pb3">
+            <p class="h2">Empieza tu semana de prueba gratis ahora.</p>
+            <p>Solo registrate.</p>
+        </section>
+
+        <!-- Contact -->
+        <section class="bg--secondary-color pt3 pb3">
+            <div class="container">
+                <div class="mb2 align--center">
+                    <h3 class="mb1">Contáctanos</h3>
+                    <p>También puedes descargar la aplicación.</p>
+                </div>
+                <form>
+                    <div class="grid-row">
+                        <div class="grid-column span-half mt1">
+                            <label class="label" for="name">Nombre</label>
+                            <input class="form-control" id="name">
+                        </div>
+                        <div class="grid-column span-half mt1">
+                            <label class="label" for="email">Email</label>
+                            <input class="form-control" id="email" type="email">
+                        </div>
+                    </div>
+                    <div class="align--right mt1">
+                        <button class="btn btn--outline">Enviar</button>
+                    </div>
+                </form>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="pt2 pb2">
+        <div class="container align--center">
+            <p>Prolongación Primavera 2390, Lima 15023</p>
+            <p>Design by <a href="https://www.papayatemplates.com" class="link">Papaya.</a></p>
+            <ul class="no-bullets list--inline mt1">
+                <li class="mr1"><a href="https://www.facebook.com/joshdiazes/" class="link"><img class="icon" src="~/img/facebook.svg" alt="Facebook"></a></li>
+                <li class="mr1"><a href="https://twitter.com/joshdiazes/" class="link"><img class="icon" src="~/img/twitter.svg" alt="Twitter"></a></li>
+                <li><a href="https://www.instagram.com/joshdiazes/" class="link"><img class="icon" src="~/img/instagram.svg" alt="Instagram"></a></li>
+            </ul>
+            <p>&copy; Nutripal</p>
+        </div>
+    </footer>
+
+    <!-- Scroll reveal -->
+    <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+
+    <!-- The compiled JavaScript file -->
+    <script src="~/js/production.js"></script>
+
+</body>
+</html>
+
