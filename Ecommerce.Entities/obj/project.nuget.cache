@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yLLVlzBmcf/KiEurw+2PM4TjoLocTI8KiW2H/tMFVKJCGcD5/tMDWQI0OTI2p6C/A0WFJ637Y6yzJX8zcGyEGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josh_\\source\\repos\\EcommerceApi\\Ecommerce.Entities\\Ecommerce.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josh_\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

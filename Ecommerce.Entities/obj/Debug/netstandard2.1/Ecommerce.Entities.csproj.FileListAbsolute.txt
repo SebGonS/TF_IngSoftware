@@ -1,0 +1,10 @@
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Entities\bin\Debug\netstandard2.1\Ecommerce.Entities.deps.json
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Entities\bin\Debug\netstandard2.1\Ecommerce.Entities.dll
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Entities\bin\Debug\netstandard2.1\Ecommerce.Entities.pdb
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Entities\obj\Debug\netstandard2.1\Ecommerce.Entities.csproj.AssemblyReference.cache
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Entities\obj\Debug\netstandard2.1\Ecommerce.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Entities\obj\Debug\netstandard2.1\Ecommerce.Entities.AssemblyInfoInputs.cache
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Entities\obj\Debug\netstandard2.1\Ecommerce.Entities.AssemblyInfo.cs
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Entities\obj\Debug\netstandard2.1\Ecommerce.Entities.csproj.CoreCompileInputs.cache
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Entities\obj\Debug\netstandard2.1\Ecommerce.Entities.dll
+C:\Users\josh_\source\repos\EcommerceApi\Ecommerce.Entities\obj\Debug\netstandard2.1\Ecommerce.Entities.pdb
